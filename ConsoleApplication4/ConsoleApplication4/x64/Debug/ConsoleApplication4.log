@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\User\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(28,9): warning C4101: 's': unreferenced local variable
+  ConsoleApplication4.vcxproj -> C:\Users\User\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
